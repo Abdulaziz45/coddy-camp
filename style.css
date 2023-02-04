@@ -1,0 +1,16 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing:border-box
+}
+
+.sayt {
+    max-width:500px;
+    widht: 85%;
+}
+
+.header-list_link {
+    height: 70px;
+    width: 85px;
+}
+
